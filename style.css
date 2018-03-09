@@ -1,0 +1,32 @@
+h1{
+  color:#666;
+}
+
+.container-fluid{
+ background-color: black;
+}
+
+#calc{
+  width:275px;
+  height:300px;
+  margin: auto;
+  margin-top:40px;
+  background-color: #777;
+  padding:20px;
+  border-radius:40px;
+  margin-bottom:50px;
+}
+
+#screen{
+  text-align:right;
+  border-radius:5px;
+  margin-bottom:10px;
+  border-style:solid;
+}
+
+
+#butt{
+  width: 40px;
+  height:40px;
+  margin:2px;
+}
